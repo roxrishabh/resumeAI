@@ -25,3 +25,12 @@ pprint(result["parsed_resume"])
 
 print("\nParsed JD\n")
 pprint(result["parsed_jd"])
+
+print("\nSkill Gap Report\n")
+pprint(result["skill_gap"])
+
+print("\nATS Report\n")
+pprint(result["ats_report"])
+
+print("\nBullet Report\n")
+pprint(result["bullet_report"])

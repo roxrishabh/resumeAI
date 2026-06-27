@@ -13,3 +13,11 @@ class ResumeState(TypedDict):
     parsed_resume: dict
 
     parsed_jd: dict
+
+    skill_gap: dict
+
+    ats_report: dict
+
+    bullet_report: dict
+
+    recommendations: dict
