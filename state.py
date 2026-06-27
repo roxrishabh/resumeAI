@@ -21,3 +21,4 @@ class ResumeState(TypedDict):
     bullet_report: dict
 
     recommendations: dict
+    recommendation_plan: dict
