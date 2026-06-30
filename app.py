@@ -26,6 +26,9 @@ pprint(result["parsed_resume"])
 print("\nParsed JD\n")
 pprint(result["parsed_jd"])
 
+print("\Recommendation")
+pprint(result["recommendation_plan"])
+
 print("\nSkill Gap Report\n")
 pprint(result["skill_gap"])
 
